@@ -78,7 +78,7 @@ My long-term goal is to **strengthen my expertise in AI/ML**, contribute to **op
 ---
 
 <p align="center">
-  💡 <i>“The best way to predict the future is to create it.”</i> – Alan Kay
+  💡 <i>“Programming is the art of telling another human being what one wants the computer to do.”</i> – Donald Knuth
 </p>
 
 <!-- End of README -->
