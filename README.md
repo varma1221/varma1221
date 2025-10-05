@@ -44,31 +44,17 @@ My long-term goal is to <strong>strengthen my expertise in AI/ML</strong>, contr
 ---
 
 ## 💻 Tech Stack
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px;">
-  
-  <div style="text-align:center;">
-    <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;">🖥️ Programming & ML</h3>
-    <div style="display:flex; gap:20px; justify-content:center; align-items:center; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=c" height="65" alt="C"/>
-      <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/>
-      <img src="https://skillicons.dev/icons?i=java" height="65" alt="Java"/>
-      <img src="https://skillicons.dev/icons?i=numpy" height="65" alt="NumPy"/>
-      <img src="https://skillicons.dev/icons?i=pandas" height="65" alt="Pandas"/>
-      <img src="https://skillicons.dev/icons?i=sklearn" height="65" alt="Scikit-learn"/>
-      <img src="https://skillicons.dev/icons?i=matplotlib" height="65" alt="Matplotlib"/>
-    </div>
-  </div>
+<div align="center">
 
-  <div style="text-align:center;">
-    <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;">⚙️ Tools & Platforms</h3>
-    <div style="display:flex; gap:20px; justify-content:center; align-items:center; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git"/>
-      <img src="https://skillicons.dev/icons?i=github" height="65" alt="GitHub"/>
-      <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="VS Code"/>
-      <img src="https://skillicons.dev/icons?i=jupyter" height="65" alt="Jupyter"/>
-      <img src="https://skillicons.dev/icons?i=canva" height="65" alt="Canva"/>
-    </div>
-  </div>
+### 🖥️ Programming & ML  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,numpy,pandas,sklearn,matplotlib&theme=light" height="65" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,canva&theme=light" height="65" />
+</p>
 
 </div>
 
