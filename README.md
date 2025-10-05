@@ -63,16 +63,16 @@ My long-term goal is to <strong>strengthen my expertise in AI/ML</strong>, contr
       <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"><br><sub>Java</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=numpy" width="55" height="55" alt="NumPy"><br><sub>NumPy</sub>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="55" height="55" alt="NumPy"><br><sub>NumPy</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=pandas" width="55" height="55" alt="Pandas"><br><sub>Pandas</sub>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55" height="55" alt="Pandas"><br><sub>Pandas</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55" alt="Matplotlib"><br><sub>Matplotlib</sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" alt="Scikit-learn"><br><sub>scikit-learn</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="55" height="55" alt="Matplotlib"><br><sub>Matplotlib</sub>
     </td>
   </tr>
 
@@ -93,10 +93,10 @@ My long-term goal is to <strong>strengthen my expertise in AI/ML</strong>, contr
       <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"><br><sub>VS Code</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55" alt="Jupyter"><br><sub>Jupyter</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"><br><sub>Jupyter</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=canva" width="55" height="55" alt="Canva"><br><sub>Canva</sub>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canva_Logo.svg" width="55" height="55" alt="Canva"><br><sub>Canva</sub>
     </td>
     <td align="center" width="100"></td>
     <td align="center" width="100"></td>
