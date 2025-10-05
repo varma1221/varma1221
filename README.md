@@ -1,11 +1,16 @@
-<!-- Header Section -->
-<h1 align="center">Hey there, I'm Tanoj Pavan Surya Varma 👋</h1>
+<!-- HEADER SECTION -->
+<h1 align="center">Hey there, I'm Tanoj Pavan Surya Varma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 <h3 align="center">💡 Passionate Computer Science Student | Building AI-Powered Projects that Think, Learn, and Evolve</h3>
 <h4 align="center">📍 Kakinada, India</h4>
 
+<!-- ANIMATED INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=500&lines=AI+%26+ML+Enthusiast;Python+Developer;Tech+Explorer+from+India" alt="Typing SVG" />
+</p>
+
 ---
 
-<!-- About Me Section -->
+<!-- ABOUT ME SECTION -->
 ### 🚀 About Me
 
 Hey there! I'm **Pavan Varma**, a tech enthusiast who loves to bring **AI concepts to life through code.**  
@@ -19,6 +24,7 @@ My long-term goal is to **strengthen my expertise in AI/ML**, contribute to **op
 
 ---
 
+<!-- TECH STACK SECTION -->
 ### 🧠 Tech Stack & Tools  
 
 <div align="center">
@@ -31,8 +37,9 @@ My long-term goal is to **strengthen my expertise in AI/ML**, contribute to **op
 
 </div>
 
+---
 
-<!-- Featured Projects -->
+<!-- FEATURED PROJECTS -->
 ### 🌟 Featured Projects
 
 #### 🧩 [AI-Powered Resume Screener](https://github.com/varma1221/AI-Resume-Screener-CLI)
@@ -53,7 +60,7 @@ My long-term goal is to **strengthen my expertise in AI/ML**, contribute to **op
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GITHUB STATS -->
 ### 📊 GitHub Stats & Insights
 
 <p align="center">
@@ -67,25 +74,22 @@ My long-term goal is to **strengthen my expertise in AI/ML**, contribute to **op
 
 ---
 
-<!-- Connect With Me -->
+<!-- CONNECT SECTION -->
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanoj-pavan-surya-varma-penmatsa-868122320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pavansvarma888@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- FOOTER QUOTE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varma1221&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  💡 *“The best way to predict the future is to create it.”* – Alan Kay
+  💡 <i>“The best way to predict the future is to create it.”</i> – Alan Kay
 </p>
