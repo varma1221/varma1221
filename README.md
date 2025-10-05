@@ -44,19 +44,64 @@ My long-term goal is to <strong>strengthen my expertise in AI/ML</strong>, contr
 ---
 
 ## 💻 Tech Stack
-<div align="center">
 
-### 🖥️ Programming & ML  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,numpy,pandas,sklearn,matplotlib&theme=light" height="65" />
-</p>
+<table align="center" width="100%">
+  <!-- Programming & ML -->
+  <tr>
+    <td align="center" colspan="7">
+      <h3>🖥️ Programming &amp; ML</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"><br><sub>C</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"><br><sub>Python</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"><br><sub>Java</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=numpy" width="55" height="55" alt="NumPy"><br><sub>NumPy</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pandas" width="55" height="55" alt="Pandas"><br><sub>Pandas</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" alt="Scikit-learn"><br><sub>scikit-learn</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=matplotlib" width="55" height="55" alt="Matplotlib"><br><sub>Matplotlib</sub>
+    </td>
+  </tr>
 
-### ⚙️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,canva&theme=light" height="65" />
-</p>
-
-</div>
+  <!-- Tools & Platforms -->
+  <tr>
+    <td align="center" colspan="7" style="padding-top:12px;">
+      <h3>⚙️ Tools &amp; Platforms</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"><br><sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"><br><sub>GitHub</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"><br><sub>VS Code</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55" alt="Jupyter"><br><sub>Jupyter</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=canva" width="55" height="55" alt="Canva"><br><sub>Canva</sub>
+    </td>
+    <td align="center" width="100"></td>
+    <td align="center" width="100"></td>
+  </tr>
+</table>
 
 ---
 
