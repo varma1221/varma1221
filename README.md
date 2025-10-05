@@ -19,20 +19,18 @@ My long-term goal is to **strengthen my expertise in AI/ML**, contribute to **op
 
 ---
 
-<!-- Tech Stack Section -->
-### 🧠 Tech Stack & Tools
+### 🧠 Tech Stack & Tools  
 
-#### 🖥️ Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
 
-#### ⚙️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### 🖥️ Programming Languages  
+<a href="#"><img src="https://skillicons.dev/icons?i=c,python,java" height="65" alt="programming languages"/></a>
 
----
+#### ⚙️ Tools & Platforms  
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="65" alt="tools and platforms"/></a>
+
+</div>
+
 
 <!-- Featured Projects -->
 ### 🌟 Featured Projects
