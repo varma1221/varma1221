@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 </h1>
 <h3 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-    💡 Passionate Computer Science Student | Building AI-Powered Projects that Think, Learn, and Evolve
+    💡Building AI-Powered Projects that Think, Learn, and Evolve
 </h3>
 <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
     📍 Kakinada, India
