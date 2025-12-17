@@ -7,7 +7,7 @@
     💡Building AI-Powered Projects that Think, Learn, and Evolve
 </h3>
 <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-    📍 Kakinada, India
+    📍 India
 </h4>
 
 <!-- Typing Animation -->
