@@ -13,6 +13,9 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=varma1221&theme=github_dark&hide_border=true&cache_seconds=86400" alt="varma1221's GitHub Streak" width="49%" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🔗 Connect with Me
@@ -23,9 +26,5 @@
   <a href="mailto:pavansvarma888@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
